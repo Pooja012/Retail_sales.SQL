@@ -13,6 +13,8 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ## Dataset used
 - <a href="https://github.com/Pooja012/Retail_sales.SQL/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20%20(1).csv">Dataset</a>
+## Dashboard
+- <a href="https://github.com/Pooja012/Retail_sales.SQL/blob/main/DashBoard-RetailSalesAnalysis.s.xlsx">Dashboard</a>
 ## Questions
 -Write a SQL Query to retieve all columns for sales made on '05-11-2022'.
 -Write a SQL Query to retrieve all transactionns where the category is 'clothing' and the quamtity sold is more than 4 in the month of Nov 2022.
@@ -181,5 +183,9 @@ group by shift;
 
 ## Conclusion
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+
+## Dash board
+![image](https://github.com/user-attachments/assets/5613a320-b5ba-4a0d-a691-427acc7549de)
+
 **Thank you**
 
