@@ -17,7 +17,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 ## Dashboard
 - <a href="https://github.com/Pooja012/Retail_sales.SQL/blob/main/DashBoard-RetailSalesAnalysis.s.xlsx">Dashboard</a>
 ## Questions
-- *Write a SQL Query to retieve all columns for sales made on '05-11-2022'.*
+- Write a SQL Query to retieve all columns for sales made on '05-11-2022'.
 - Write a SQL Query to retrieve all transactionns where the category is 'clothing' and the quamtity sold is more than 4 in the month of Nov 2022.
 - Write a SQL Query to calculate the total sales (total_sale) for each category.
 - Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.
