@@ -7,9 +7,9 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ## Objectives
 1.**Set up a retail sales database: Create and populate a retail sales database with the provided sales data.**
-2.**Data Cleaning: Identify and remove any records with missing or null values.
-3.**Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.
-4.**Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.
+2.**Data Cleaning: Identify and remove any records with missing or null values.**
+3.**Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.**
+4.**Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.**
 
 ## Dataset used
 - <a href="https://github.com/Pooja012/Retail_sales.SQL/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20%20(1).csv">Dataset</a>
