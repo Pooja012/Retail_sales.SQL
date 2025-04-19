@@ -1,23 +1,23 @@
 # Retail_sales.SQL
 
-##Project Overview
+## Project Overview
 
 **Project Title** : Retail Sales Analysis
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
 
 ## Objectives
-1.**Set up a retail sales database: Create and populate a retail sales database with the provided sales data.**
-2.**Data Cleaning: Identify and remove any records with missing or null values.**
-3.**Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.**
-4.**Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.**
+1.**Set up a retail sales database**: Create and populate a retail sales database with the provided sales data.
+2.**Data Cleaning**: Identify and remove any records with missing or null values.
+3.**Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
+4.**Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
 
 ## Dataset used
 - <a href="https://github.com/Pooja012/Retail_sales.SQL/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20%20(1).csv">Dataset</a>
 ## Dashboard
 - <a href="https://github.com/Pooja012/Retail_sales.SQL/blob/main/DashBoard-RetailSalesAnalysis.s.xlsx">Dashboard</a>
 ## Questions
--Write a SQL Query to retieve all columns for sales made on '05-11-2022'.
+-*Write a SQL Query to retieve all columns for sales made on '05-11-2022'.*
 -Write a SQL Query to retrieve all transactionns where the category is 'clothing' and the quamtity sold is more than 4 in the month of Nov 2022.
 -Write a SQL Query to calculate the total sales (total_sale) for each category.
 -Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.
@@ -154,7 +154,7 @@ FROM `sales`.`retail sales`
 group by category;
 ```
 
-10.** Write a SQL query to create each shift and number of orders (Example Morning < 12, Afternoon Between 12 &17, Evening > 17).**
+10.**Write a SQL query to create each shift and number of orders (Example Morning < 12, Afternoon Between 12 &17, Evening > 17).**
 ```sql
 WITH hourly_sale
 AS
